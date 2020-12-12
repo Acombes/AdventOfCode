@@ -1,0 +1,12 @@
+{
+  "name": "antoine-combes-advent-of-code",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "run": "node index.js",
+    "run-2020": "node index.js src/2020"
+  },
+  "session": "53616c7465645f5fcb6ae2a776244a632b0554a1a64a0ea9035517429861d7c6be54629533325302a0becbd85a8d0828"
+}
